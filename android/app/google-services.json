@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787337297332",
+    "project_id": "gokulfirebaseapplicaation",
+    "storage_bucket": "gokulfirebaseapplicaation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787337297332:android:cdd01aca64f682287ec6e1",
+        "android_client_info": {
+          "package_name": "com.example.gokul_firebase_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgAyxKksX5jc48fysH-byONOeub2mc8tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
